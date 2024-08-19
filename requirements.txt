@@ -1,0 +1,10 @@
+torch
+typer
+tqdm
+transformers
+Pillow
+python-dotenv
+git+https://github.com/illuin-tech/colpali
+
+# for jupyter notebook
+ipywidgets
