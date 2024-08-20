@@ -4,6 +4,7 @@ tqdm
 transformers
 Pillow
 python-dotenv
+pdf2image
 git+https://github.com/illuin-tech/colpali
 
 # for jupyter notebook
